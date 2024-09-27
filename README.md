@@ -1,4 +1,4 @@
-# first_androidstudio_flutter_demo
+# Flutter-Gemini-Math-Solution-App
 
 A new Flutter project.
 
