@@ -16,6 +16,7 @@
 
 <br>
 
+# To find the Gemini API, you can follow these steps:
 ### 1) Visit the Google AI for Developers website: Go to https://ai.google.dev/gemini-api.
 ### 2) Read the documentation: The website provides comprehensive documentation on the Gemini API, including its capabilities, usage guidelines, and examples.   
 ### 3) Obtain an API key: To access and use the Gemini API, you'll need to generate an API key. The documentation will guide you through this process.   
